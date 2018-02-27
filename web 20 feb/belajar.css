@@ -1,0 +1,34 @@
+body {
+
+
+}
+
+
+.jumbotron
+{
+
+
+	background-color: darkslateblue;
+;
+}
+
+.judul {
+
+	font-size=21px;
+}
+
+.hr-label {
+
+	border : none;
+	background-color: gray;
+	height: 5px;
+
+
+
+}
+
+.Gambar {
+	width :100%;
+	height : 450px;
+	margin-bottom: 5px;
+	border-radius : 5px;
